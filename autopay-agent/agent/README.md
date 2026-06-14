@@ -1,32 +1,34 @@
-# AutoPay Agent 🤖💳
-
-### *AI-Powered Autonomous Subscription Payments using MetaMask Smart Accounts, 1Shot Gasless Relayers, Venice AI, and Telegram.*
-
----
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
-[![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
-[![Smart Accounts](https://img.shields.io/badge/Smart--Accounts-3B82F6?style=for-the-badge&logo=ethereum&logoColor=white)](#)
-[![Ethereum Sepolia](https://img.shields.io/badge/Ethereum-Sepolia-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white)](#)
-[![Venice AI](https://img.shields.io/badge/Venice--AI-FF5733?style=for-the-badge&logoColor=white)](#)
-[![1Shot API](https://img.shields.io/badge/1Shot--API-4CAF50?style=for-the-badge&logoColor=white)](#)
+<h1 align="center"> AutoPay Agent</h1>
+<h3 align="center">AI-Powered Autonomous Subscription Payments using MetaMask Smart Accounts, 1Shot Gasless Relayers, Venice AI, and Telegram.</h3>
 
 ---
 
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://metamask.io/"><img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Smart--Accounts-3B82F6?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethereum-Sepolia-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Venice--AI-FF5733?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/1Shot--API-4CAF50?style=for-the-badge&logoColor=white">
+</p>
+
+---
+
+## AutoPay Agent
+<p align="center">
+  <img src="./banner.jpg" alt="AutoPay Agent Banner" width="50%">
+</p>
+
+---
 ## 📌 Project Banner
 ![AutoPay Agent Banner](./banner.png)
 
 ---
 
-## 💡 Hero & Hackathon Metadata
-* **Submission Portal:** [DoraHacks / ETHGlobal / Encode Club Submission](#)
-* **Value Proposition:** AutoPay Agent simplifies Web3 subscription services by merging a natural language Telegram interface with an intelligent budgeting dashboard and a dual-route transaction execution engine (MetaMask manual signing vs. 1Shot gasless relayer).
-
----
 
 ## 1. ⚠️ The Problem Statement
 Traditional subscription billing models are fundamentally broken when applied to Web3:
@@ -161,10 +163,8 @@ The **MetaMask Integration** provides the core Web3 interface for standard user-
 * **Receipt Tracking:** Reads transaction hashes directly from the MetaMask promise resolve, sending notifications to the user's Telegram bot instance instantly.
 
 ### 🖼️ MetaMask Route UI Flow:
-* **Dashboard Connection State:**
-  ![Dashboard UI Placeholder](https://placehold.co/600x350/0f172a/ffffff?text=Dashboard+Connected+with+MetaMask)
 * **Transaction Signing Popup:**
-  ![MetaMask Transaction Placeholder](https://placehold.co/600x350/0f172a/ffffff?text=MetaMask+Signature+Request)
+  ![MetaMask Transaction Placeholder](./meta2.png)
 
 ---
 
@@ -233,15 +233,15 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 ## 📸 10. Screenshot Walkthrough
 
 ### 1. Dashboard View
-![Dashboard Layout](https://placehold.co/800x450/1e293b/ffffff?text=AutoPay+Agent+--+Main+Dashboard+View)
+![Dashboard Layout](./dash.png)
 *Glassmorphic design summarizing user budget, spent amount, remaining credits, and advanced analytics stats.*
 
 ### 2. Telegram Bot Interface
-![Telegram Chat Interface](https://placehold.co/400x600/1e293b/ffffff?text=Telegram+Bot+Conversation+and+Approvals)
+![Telegram Chat Interface](./telegram.png)
 *Demonstrating NLP parsed payments, /policy setups, and immediate Etherscan receipt delivery.*
 
 ### 3. Dual Routing Executions (MetaMask & 1Shot)
-![Execution Banners](https://placehold.co/800x300/1e293b/ffffff?text=MetaMask+Manual+Signing+vs+1Shot+Gasless+Execution+Banners)
+![Execution Banners](./dual.png)
 *Side-by-side display of MetaMask payment route and the gasless, sponsored 1Shot relayer executing in one click.*
 
 ---
@@ -249,7 +249,6 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 ## 🎬 11. Live Demonstration & Repository
 
 * **Frontend Live URL:** [https://autopay-agent-frontend.vercel.app](https://autopay-agent-frontend.vercel.app) *(Demo Link)*
-* **Backend Live URL:** [https://autopay-agent-api.herokuapp.com](https://autopay-agent-api.herokuapp.com) *(Demo Link)*
 * **Demo Video Presentation:** [YouTube Link / Loom Presentation](https://youtube.com) *(Hackathon Walkthrough)*
 * **Telegram Bot Handler:** [@autopay_agent_bot](https://t.me/autopay_agent_bot)
 * **GitHub Repository:** [https://github.com/sylvia-barick/autopay-agent](https://github.com/sylvia-barick/autopay-agent)
