@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Project Banner
-![AutoPay Agent Banner Placeholder](https://placehold.co/1200x400/1e293b/ffffff?text=AutoPay+Agent+--+Autonomous+Web3+Subscriptions+for+Everyone)
+![AutoPay Agent Banner](./banner.png)
 
 ---
 
