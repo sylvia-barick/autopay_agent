@@ -248,8 +248,7 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 
 ## 🎬 11. Live Demonstration & Repository
 
-* **Frontend Live URL:** [https://autopay-agent-frontend.vercel.app](https://autopay-agent-frontend.vercel.app) *(Demo Link)*
-* **Demo Video Presentation:** [YouTube Link / Loom Presentation](https://youtube.com) *(Hackathon Walkthrough)*
+* **Frontend Live URL:** [https://autopay-agent-frontend.vercel.app](https://autopay-frontend-rouge.vercel.app/) *(Demo Link)*
 * **Telegram Bot Handler:** [@autopay_agent_bot](https://t.me/autopay_agent_bot)
 * **GitHub Repository:** [https://github.com/sylvia-barick/autopay-agent](https://github.com/sylvia-barick/autopay-agent)
 
@@ -298,7 +297,7 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 ---
 
 ## 👥 15. Team & Contributors
-* **Sylvia Barick** - *Full Stack Blockchain Developer* - [GitHub](https://github.com/sylvia-barick) | [LinkedIn](https://linkedin.com)
+* **Sylvia Barick** - *Full Stack Blockchain Developer* - [GitHub](https://github.com/sylvia-barick) | [LinkedIn](https://www.linkedin.com/in/sylvia-barick-081651321/)
 
 ---
 
