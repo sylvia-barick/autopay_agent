@@ -246,15 +246,55 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 
 ---
 
-## 🎬 11. Live Demonstration & Repository
+## 📢 11. Social Media & Build Journey
 
-* **Frontend Live URL:** [https://autopay-agent-frontend.vercel.app](https://autopay-frontend-rouge.vercel.app/) *(Demo Link)*
+Throughout the MetaMask Smart Accounts × 1Shot API Hackathon, AutoPay Agent was developed in public with regular updates shared on X (Twitter).
+
+Our build journey covered:
+
+* Project ideation and architecture design
+* MetaMask Smart Accounts integration
+* 1Shot Permissionless Relayer integration
+* Telegram bot development
+* Natural language payment workflows
+* Budget policy enforcement
+* Dashboard analytics implementation
+* Venice AI integration
+* Live Sepolia transaction execution
+* Final project submission
+
+### Social Media Links
+
+* X (Twitter): https://x.com/5_barick
+* Project Updates Thread: https://x.com/5_barick/status/2066333979721306122?s=20
+* Final Submission Post: https://x.com/5_barick/status/2066333979721306122?s=20
+
+### Build in Public Highlights
+
+✅ Shared development progress throughout the hackathon
+
+✅ Posted technical updates and milestones
+
+✅ Documented debugging challenges and solutions
+
+✅ Shared successful MetaMask and 1Shot transaction executions
+
+✅ Engaged with the hackathon community and ecosystem partners
+
+The project was built publicly from concept to final submission, showcasing both technical progress and lessons learned during development.
+
+---
+
+## 🎬 12. Live Demonstration & Repository
+
+* **Frontend Live URL:** [https://autopay-agent-frontend.vercel.app](https://autopay-agent-frontend.vercel.app) *(Demo Link)*
+* **Demo Video Presentation:** [YouTube Link / Loom Presentation](https://youtube.com) *(Hackathon Walkthrough)*
 * **Telegram Bot Handler:** [@autopay_agent_bot](https://t.me/autopay_agent_bot)
 * **GitHub Repository:** [https://github.com/sylvia-barick/autopay-agent](https://github.com/sylvia-barick/autopay-agent)
 
 ---
 
-## 🧾 12. Real On-Chain Transaction Proof
+## 🧾 13. Real On-Chain Transaction Proof
 
 ### MetaMask Transaction Execution
 * **Transaction Hash:** `0x9814571288d30dee398fb70801e6040d19876a720157dc0b021869be69b66600`
@@ -272,7 +312,7 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 
 ---
 
-## 🔮 13. Future Roadmap
+## 🔮 14. Future Roadmap
 
 1. **Multi-Chain Expansion:** Extend the 1Shot and MetaMask routing engines to Layer 2 networks (Arbitrum, Optimism, Base) and EVM equivalents.
 2. **Stablecoin Payment Flows:** Support ERC-20 stablecoin streams (USDC, USDT) with automated smart-contract conversions.
@@ -282,7 +322,7 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 
 ---
 
-## 🏆 14. Hackathon Requirements Checklist
+## 🏆 15. Hackathon Requirements Checklist
 
 | Requirement | Description | Status |
 | :--- | :--- | :---: |
@@ -296,8 +336,13 @@ If the Venice API key is depleted (returning HTTP Status `402 Payment Required` 
 
 ---
 
-## 👥 15. Team & Contributors
-* **Sylvia Barick** - *Full Stack Blockchain Developer* - [GitHub](https://github.com/sylvia-barick) | [LinkedIn](https://www.linkedin.com/in/sylvia-barick-081651321/)
+## 👥 16. Team & Contributors
+* **Sylvia Barick** - *Full Stack Blockchain Developer* - [GitHub](https://github.com/sylvia-barick) | [LinkedIn](https://linkedin.com)
+
+---
+
+## 📄 17. License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
